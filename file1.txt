@@ -1,2 +1,10 @@
-This file is written for practice purpose only.
-File is written by owner.
+#!/bin/bash
+read -p "Enter the value of a=" a
+read -p "Enter the value of b=" b
+echo The value of a is $a
+echo The value of b is $b
+echo The addition of a and b is ` expr $a + $b`
+echo The Substraction of a and b is `expr $a - $b`
+echo the multiplication of a and b is `expr $a \* $b`
+echo The division of a and b is  `expr $a / $b`
+
