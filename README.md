@@ -1,2 +1,1 @@
-# SampleProject
-This repository is for sample project only.
+[![Build Status](https://dev.azure.com/gauravivarpe1996/Agileproject/_apis/build/status%2FGauravi-V.SampleProject?branchName=main)](https://dev.azure.com/gauravivarpe1996/Agileproject/_build/latest?definitionId=4&branchName=main)
